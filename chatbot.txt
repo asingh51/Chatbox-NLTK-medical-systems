@@ -1,0 +1,1905 @@
+
+Medical Systems
+Medical systems help doctors and nurses diagnose and treat patients. Hospitals and clinics rely extensively on computer technology to examine patients, cure disease, advance the science of medicine, and conduct the business of health care.
+
+Embedded Systems
+Many visits to a hospital start in the emergency room, which may be filled with electronic devices that look nothing like desktop computers. However, most of these devices rely on an embedded microprocessor , the same type of chip that powers other computers. Instead of using a stethoscope, a nurse may depend on an embedded chip in a blood pressure machine to measure a patient's pulse and blood pressure. Another embedded processor may help take the patient's temperature or deliver controlled amounts of a drug through an intravenous tube at regular intervals. These types of systems ease the burden on medical workers and improve the quality of care.
+
+Other devices tackle more complex tasks such as constantly determining the amount of oxygen in the patient's blood. Some doctors are even using personal digital assistants (PDAs) such as Palm Pilots to help retrieve information about drugs and diseases, as well as to write drug prescriptions and to store information about patients. Even smaller devices known as smart cards , which are the same size as a credit card, can store medical information on an embedded chip.
+
+Often, desktop computers are used to consolidate information from embedded systems. For instance, in a critical care unit designed to treat very sick patients, desktop computers may alert a nurse if an electronic sensor determines that a patient is not breathing well. Desktop computers also help people to use smart cards and PDAs.
+
+Desktop Computing and Databases
+Health care organizations use desktop computers to accomplish administrative tasks required of any large business, such as routing e-mail, tracking supplies, paying employees, and keeping track of customers—in this case, patients. One of the key tools used to accomplish these tasks is a database. A database is a system that allows an organization systematically to store, process, and retrieve large amounts of data. One can think of a database as the nervous system for an organization, because the database provides the information needed to coordinate the actions of its members.
+
+Paper-based databases typically employ standardized paper forms, folders, and filing cabinets. An electronic database is a software program that runs on one or more computers. Electronic databases offer many advantages over paper databases. However, because people are so comfortable with paper forms and because it is difficult and expensive to create an electronic database that can track everything that paper systems track, medical institutions have been slow to change from paper-based systems to electronic databases. Most health care organizations today rely on a combination of paper and computer-based systems.
+
+Medical scientists use databases to conduct research on hundreds or even thousands of patients at a time. For example, to study the effectiveness of a new prescription drug, it is not enough to look at only a small number of patients. Instead, a large number of patients, usually at least 100, must be evaluated. This way, if the patients get better after taking the drug, the scientist can be sure that the drug was responsible for the good results. Databases also help hospital administrators to identify trends and improve the efficiency of health care organizations.
+
+The most important information tracked by a medical database is a patient's medical record. The medical record contains the history of the patient's health and treatments. The medical record may contain prescriptions, doctor's notes, X-ray films, immunizations, and the results of various lab tests. Doctors review the medical record whenever they need to make an important decision about how to treat the patient.
+
+Because electronic systems make it very easy to retrieve and copy information, one of the concerns with electronic databases is patient privacy. Patients expect that their personal medical information will be kept confidential. Hospitals must be sure that each part of the medical record is protected so that only authorized personnel are able to view confidential data.
+
+Computers and databases are also very important when patients are prescribed drugs. One of the important issues with prescription drugs is that some of these drugs can interact, or combine harmfully when taken together. For example, some patients have become sick and even died after taking a combination of prescription drugs that produced harmful side effects. Another problem is that doctors have difficulty remembering the recommended dosage for each of the hundreds of drugs available. With so many prescription and non-prescription drugs on the market and new drugs entering the market constantly, databases help doctors and pharmacists to be sure that they are prescribing drugs in the proper dose and that the drugs will not interact harmfully with each other. The best drug dispensaries require the pharmacist to enter all prescriptions into an electronic database that warns of a potentially harmful drug interaction before the patient receives the medication.
+
+Tele-Health
+When a patient far away from a medical facility needs expert medical advice, tele-health technology allows doctors to evaluate patients even though they may be separated by hundreds of miles. Tele-heath is made possible by the same technology that runs the Internet. It could involve the electronic transmission of an X-ray image to a distant radiologist, who can diagnose the patient by examining the X-ray. Tele-health could also involve setting up a computer and camera in a patient's home so that a health care provider can see and talk with the patient without traveling to the patient's home.
+
+Further advancements in tele-health may one day allow a surgeon in one hospital to operate on a patient located in a different hospital. Sophisticated robots could allow the physician to see the patient and even have the sensation of touching him or her. Before this can happen, however, information technology must improve and be extremely reliable so that the electronic connection between the surgeon and the remote control robot will not fail.
+
+
+ A
+Quick Guide
+To
+Common Childhood
+Diseases
+
+
+May 2009 
+Table of Contents
+Introduction ................................................................................................................... 1
+How are illnesses and infestations spread?............................................................... 2
+Routine Practices.......................................................................................................... 4
+Handwashing................................................................................................................. 5
+Other Resources ........................................................................................................... 8
+Campylobacteriosis ...................................................................................................... 9
+Chickenpox (Varicella)................................................................................................ 10
+Cold Sores ................................................................................................................... 11
+Croup............................................................................................................................ 12
+Cryptosporidiosis (“Crypto”) ..................................................................................... 13
+E. Coli (Escherichia Coli): Diarrhea Illness and Hemolytic Uremic Syndrome ...... 14
+Fifth Disease (Erythema Infectiosum) ....................................................................... 15
+Giardiasis (“Beaver Fever”) ....................................................................................... 16
+Haemophilus Influenzae type B (Hib) ........................................................................ 17
+Hand, Foot, and Mouth Disease................................................................................. 18
+Head Lice (Pediculosis).............................................................................................. 19
+Hepatitis A ................................................................................................................... 20
+Impetigo ....................................................................................................................... 21
+Influenza....................................................................................................................... 22
+Measles ........................................................................................................................ 23
+Meningitis .................................................................................................................... 24
+Meningococcal Meningitis.......................................................................................... 25
+Methicillin-Resistant Staphylococcus Aureus (MRSA)............................................ 26
+Molluscum Contagiosum............................................................................................ 27
+Mononucleosis (“Mono”)............................................................................................ 28
+Mumps.......................................................................................................................... 29
+Norovirus (“Norwalk virus”)....................................................................................... 30
+Pertussis (Whooping Cough)..................................................................................... 31
+Pink Eye (Conjunctivitis) ............................................................................................ 32
+Pinworms..................................................................................................................... 33
+Respiratory Syncytial Virus (“RSV”) ......................................................................... 34
+Ringworm..................................................................................................................... 35
+Roseola Infantum (“Sixth Disease”).......................................................................... 36
+Rotavirus...................................................................................................................... 37
+Rubella (German Measles) ......................................................................................... 38
+Salmonellosis .............................................................................................................. 39
+Scabies......................................................................................................................... 40
+Shigellosis ................................................................................................................... 41
+Shingles ....................................................................................................................... 42
+Streptococcal Infections: Scarlet Fever and Strep Throat ...................................... 43
+Swimmer’s Itch............................................................................................................ 44
+References................................................................................................................... 45
+1
+Introduction
+The purpose of the Quick Guide to Common Childhood Diseases is to provide general
+information about communicable diseases commonly experienced by young children. It
+is a quick reference only and is intended to assist care providers with identifying
+common childhood diseases so that actions can be taken to decrease the spread of the
+illness or infestation to others.
+Parents and caregivers who would like more information regarding the illnesses and
+infestations described in this guide or information on how to care for their sick child can
+refer to Other Resources.
+The guide is for people who care for young children. This includes people who work in
+childcare and daycare facilities, early learning centres, preschool, school, summer
+camp, and anywhere else that groups of young children spend time together. When
+children work and play together in groups, there is an opportunity for the spread of a
+number of common childhood diseases that can be passed on from one child to the
+next. Early recognition of the illness or infestation and prompt treatment can significantly
+reduce the spread within the group setting.
+The diseases and infestations described in the guide do not only affect children. Adults
+can develop symptoms and/or unknowingly spread the illness from one child to another.
+Each infectious disease in this guide is described according to:
+• What is it?
+¾ Basic facts about the infectious disease
+¾ A list of some of the signs and symptoms (not every child will have every
+symptom of the illness)
+• How is it spread?
+¾ Description of how the illness or infestation is passed from child to child
+• Incubation Period
+¾ Length of time from when the child is first exposed to the illness to when
+the first symptoms appear in that child
+• When is the person contagious?
+¾ Description of the time period when an infected child is able to spread the
+illness or infestation to others
+• How to prevent spread of the illness / infestation to other children
+¾ Information regarding whether or not the child needs to be excluded from
+the school or child care facility
+¾ Strategies to decrease the spread of the illness within the group setting. 
+2
+How are illnesses and infestations spread?
+Most of the infections in this guide are transmitted through direct and indirect contact with
+the nose and throat secretions of an infected person. This can happen when:
+• An infected person coughs or sneezes without a tissue to cover their nose and mouth.
+Tiny droplets containing the virus or bacteria travel through the air and can infect a
+person who is close (less than a meter away).
+• An infected person may have the virus or bacteria on their hands after wiping their
+eyes or nose, coughing, or sneezing. If they touch another person’s hand or an
+object, the virus or bacteria may be left behind. The virus or bacteria can infect the
+next person when that person touches their eyes, nose, or mouth. Some viruses and
+bacteria can remain on surfaces like doorknobs, faucets,
+telephones, and toys for many hours.
+• People working with groups of children assist children with
+using or disposing of tissues. When the tissue is
+contaminated with the nose and throat secretions of an infected
+child, the virus or bacteria is readily transmitted to the hands of the staff
+member when they touch the tissue.
+Several of the infections affect the gastrointestinal system (stomach and bowel). The
+bacteria or virus is often found in contaminated food or water but can be transmitted person
+to person, especially in a child care facility where children are in diapers. These viruses and
+bacteria are primarily transmitted when:
+• Contaminated food is not cooked or cleaned properly.
+• Contaminated water is not treated properly.
+• There is direct contact with the stool (feces) of an infected person. This might happen
+when a caregiver changes a child’s diaper or assists a child with toileting. Even a tiny
+amount of stool on a caregiver’s hand may contain virus or bacteria and infect them if
+they directly touch their mouth or prepare food before
+handwashing.
+• There is indirect contact with infected stool. This might
+happen when a person with the virus or bacteria on their
+hands touches an object (e.g., faucet, light switch, door
+knob, or toy). The virus or bacteria can live on the object for long
+periods of time and be transmitted to anyone who touches the object. 
+3
+Head lice is an infestation, not an infection. Head lice do not cause illness.
+Ringworm, scabies, and pinworms can cause infections and illness.
+Head lice, ringworm, scabies, and pinworms are spread by direct contact with a person who
+has them when:
+• People are very close together and skin or hair is touching.
+• A person touches the affected area and then touches the
+hands or skin of another person.
+• Sharing combs, hair brushes, hats, helmets, or headphones. 
+4
+Routine Practices
+Cover your mouth and nose with a tissue when you cough or sneeze.
+Teach children to sneeze or cough into the inner arm
+where the elbow flexes instead of sneezing or coughing
+into their hands. This method decreases the spread of
+disease from infection on the hands.
+Do not share personal items such as hairbrushes, hats, toothbrushes,
+facecloths, towels, sippy cups, or bottles.
+Wear disposable gloves anytime your hands may come into contact with blood or body
+fluid. This is especially important if you have a cut or open sore on your hands.
+Use household rubber gloves when cleaning or sanitizing.
+Dispose of articles soiled with discharge from nose and/or mouth, vomit, or feces into a
+disposal bin, ideally with a pop-up lid. The bin should be lined with a disposable plastic
+bag to be tied and thrown out with the household/childcare facility garbage.
+Disinfect surfaces using a diluted bleach solution. A solution of 1:100 or 1:50 is
+recommended for routine disinfection of surfaces and objects. A bleach solution loses
+potency when stored. If a 1:100 solution is used, it loses effectiveness after 24 hours. A
+1:50 solution remains effective for 30 days.
+¾ 1:100 is 1 part bleach to 100 parts water (5 ml bleach to 500 ml water).
+¾ 1:50 is 1 part bleach to 50 parts water (10 ml bleach to 500 ml water).
+1 part bleach to 10 parts water (5 ml bleach to 50 ml water) is recommended for
+cleaning up spills of blood or body fluids.
+* Organic material such as blood or stool inactivates bleach. A surface obviously
+contaminated with blood or stool must be cleaned with water and detergent before
+being disinfected.
+Clean and disinfect countertops, toys, and diaper changing areas more
+frequently when a child with diarrhea is present.
+Prepare food safely:
+¾ Cook meat and poultry well.
+¾ Avoid drinking or serving unpasteurized milk and juice.
+¾ Thoroughly wash all fruits and vegetables before eating or serving.
+¾ Keep uncooked meat away from fruit and vegetables.
+Cover food and store at recommended temperatures for recommended times. 
+5
+Handwashing
+Handwashing is the best way to stop the spread of infections. Eighty percent of
+common infections are spread by hands. Washing hands at least five times a day has
+been shown to significantly decrease the frequency of colds, flu, and other infections.
+When to Wash Your Hands
+Caregivers should wash hands:
+¾ Before preparing food
+¾ Before feeding a child or eating
+¾ After using the washroom or
+helping a child use the washroom
+¾ Before and after changing
+diapers
+¾ After blowing your nose or wiping
+a child’s nose
+¾ Before performing first aid or
+applying a band-aid
+¾ Before applying sunscreen
+¾ After handling pets or other
+animals
+¾ After cleaning or handling
+garbage
+Children should wash hands:
+¾ Before eating or helping with food
+preparation
+¾ After using the washroom
+¾ After sneezing, coughing or using
+a tissue
+¾ After playing with toys shared
+with other children
+¾ Before and after playing at the
+water table
+¾ After playing outside or in the
+sandbox
+¾ After handling animals or animal
+waste
+How to Wash Your Hands
+Use regular soap that does not contain antibacterial agents.
+• Regular soap will remove the dirt and grease that attract bad bacteria.
+• Regular soap will not kill the good bacteria that live on the hands.
+• Using antibacterial products unnecessarily increases the concentration of antibiotics
+in the water supply and in the environment.
+• Rub your hands together with soap for 20 seconds (the length of time it takes to
+sing Twinkle Twinkle Little Star) and rinse your hands for 10 seconds.
+Use of alcohol-based hand rubs
+• Alcohol-based hand rubs are quick to use. They are especially convenient when
+soap and water are not available.
+• These products need to be at least 60% alcohol to be effective, so check the label.
+• Alcohol-based hand rubs do not cause antibiotic resistance. 
+6
+• Alcohol-based hand rubs kill many bacteria and viruses, but are not effective
+against some of the germs that cause diarrhea.
+• Alcohol-based hand rubs don’t work if your hands are greasy or visibly dirty. These
+products don’t clean your hands and are not a substitute for handwashing.
+• These products are safe for children if used with supervision. Alcohol-based hand
+rubs are poisonous if ingested. Children should not put their hands in their mouths
+until the alcohol evaporates (about 15 seconds).
+• Wall dispensers and containers of alcohol-based hand rubs should be placed so
+they cannot be reached by small children.
+• Alcohol-based hand rubs are flammable and should not be stored near a source of
+heat.
+Taken from “Do Bugs Need Drugs?” www.dobugsneeddrugs.org
+ 
+7
+How to wash your hands
+Graphic Design by Imagine Grafx (imaginegrafx.ca)
+8
+Other Resources
+Healthlink BC website at http://www.healthlinkbc.ca/searchhealth.stm
+• Information for parents and care providers
+• More detailed information about the illnesses and infestations described in this
+guide and other health conditions and infectious diseases
+• Links to:
+¾ Learn about health topics
+¾ BC Health Files
+¾ BC Health Handbook
+BC Health Files are available from local public health units. The BC Health Handbook
+is available from a variety of resources in the community (e.g., public health unit,
+pharmacy, or doctor’s office).
+BC Nurseline
+• Anywhere in BC: phone 8-1-1
+• TTY (Deaf and hearing-impaired): 7-1-1
+Preventing Illness in Child Care Settings online at
+http://www.health.gov.bc.ca/library/publications/year/2003/com018.pdf.
+¾ written specifically to assist child care facility operators with designing and
+implementing health and illness policies to guide decision-making about children
+who are ill
+ImmunizeBC website at http://www.immunizebc.ca/default.htm
+¾ Information about vaccine-preventable diseases
+¾ Immunization schedules
+Caring for Kids website at http://www.caringforkids.cps.ca/index.htm
+¾ Developed by the Canadian Pediatric Society
+¾ Information for parents and caregivers about common childhood illnesses
+The Children’s Hospital of Philadelphia, Health and Medical Information at
+http://www.chop.edu/consumer/your_child/index.jsp
+¾ Information for parents and caregivers about common childhood illnesses
+Do Bugs Need Drugs?
+¾ A community education program promoting the wise use of antibiotics. The
+program includes information about how handwashing can stop the spread of
+infection and reduce the need for antibiotics.
+¾ Information for early childcare educators at
+http://www.dobugsneeddrugs.org/daycares/
+¾ Information for teachers of elementary school students at
+http://www.dobugsneeddrugs.org/teachers/materials.html
+9
+Campylobacteriosis
+What is it? Campylobacter bacteria are a common cause of gastrointestinal infection
+in both children and adults, often in the summer and early fall. A person
+infected with campylobacter bacteria has campylobacteriosis.
+There are several types of campylobacter bacteria that cause illness. The
+most common cause of illness in humans is Campylobacter jejuni.
+Signs and symptoms of campylobacteriosis may include:
+¾ Abdominal pain and cramping
+¾ Diarrhea (may be bloody)
+¾ Nausea and vomiting
+¾ Malaise
+¾ Fever
+Illness usually lasts 2 – 5 days and can be confirmed with a stool
+specimen.
+How is it spread? Most cases of campylobacter are caused by eating raw or undercooked
+poultry meat or by cross contamination of other foods by these items.
+¾ Infants may ingest the bacteria by handling poultry packages in
+shopping carts.
+¾ If poultry meat is cut on a cutting board and then the cutting board
+or utensil is used for other raw or lightly cooked food,
+campylobacter bacteria can be spread to the other food.
+Campylobacter bacteria are not usually spread from one person to another
+unless the person is producing large amounts of diarrhea.
+Campylobacter infection is also spread through:
+¾ Contact with the feces of infected
+people, pets (especially kittens and
+puppies that may have fecal matter on
+their fur), birds, and farm animals
+¾ Drinking contaminated water or
+contaminated, unpasteurized milk or juice
+Incubation period Usually 2 – 5 days. Range is 1 – 10 days, depending on number of
+bacteria ingested.
+When is the person
+contagious?
+During the course of infection (may continue to excrete the bacteria in
+stool for several weeks after illness).
+How to prevent
+spread of the illness
+to other children.
+Child can return to school or the child care facility when feeling well
+enough to take part in activities.
+¾ Exclude any individual with symptoms from food handling and child
+care until 48 hours after last episode of diarrhea.
+¾ Ensure children wash hands carefully after handling pets.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+10
+Chickenpox (Varicella)
+What is it? Chickenpox is an infection caused by varicella-zoster virus.
+Signs and symptoms of chickenpox may include:
+¾ Slight fever may be present before a rash develops.
+¾ Rash usually first appears on body, face, and scalp. It then spreads
+to limbs.
+¾ Rash begins as small, red, flat spots that develop into itchy fluidfilled blisters.
+¾ Blisters are usually less than ¼” wide and have a red base.
+¾ After the blister breaks, open sores will crust over to form dry,
+brown scabs.
+Usually lasts for about 10 days.
+For some people, the virus can become active again later in life and cause
+shingles (see Shingles for more information).
+How is it spread? ¾ Direct contact with an infected person’s blisters or fluid from the
+blisters.
+¾ Contact with an infected person’s saliva.
+¾ Breathing in air contaminated with the
+virus when an infected person has
+coughed or sneezed.
+¾ A pregnant woman with chickenpox can
+pass it on to her baby during pregnancy.
+¾ A mother with chickenpox can pass it on to her newborn.
+The virus does not live on objects like sheets, counters, or toys.
+Incubation period Usually 8 - 21 days from contact with an infected person
+When is the person
+contagious?
+From 2 days before spots appear and until all blisters have crusted over
+(which is usually 5 days after the first blisters appear).
+Child is most infectious 12 - 24 hours before the rash appears.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from child care or school when spots first appear until all
+sores are crusted over (usually 5 days after onset of blisters).
+Alert other parents when a case of chickenpox occurs in a child care
+facility.
+Alert pregnant staff members and staff members with weakened immune
+systems.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Chickenpox vaccine is free and is available for all people in B.C. who are
+over one year of age and are susceptible to chickenpox. Chickenpox vaccine
+given within 5 days of exposure to chickenpox disease is effective in
+preventing or reducing the severity of chickenpox. 
+11
+Cold Sores
+What is it? Cold sores on the mouth are usually caused by herpes simplex type 1
+virus.
+Signs and symptoms of cold sores may include:
+¾ Superficial clear blisters with a red base which crust over
+¾ Blisters heal within days
+¾ Sore mouth that makes eating, drinking, and sleeping
+uncomfortable
+¾ Fever
+¾ Sore throat
+¾ Swollen lymph glands in neck
+¾ Drooling in small children.
+During the first outbreak of cold sores, the sores may spread to any part of
+the mouth.
+After you become infected, the virus stays in your body and may cause
+cold sores to return throughout your lifetime. Recurrent infection on the lips
+is usually less serious than the first infection.
+How is it spread? Direct contact with secretions from the throat and mouth of infected
+children and adults.
+¾ Kissing
+¾ Sharing eating utensils, drinking cups, and
+toys that are put in the mouth
+¾ Touching the cold sore directly
+Incubation period Usually 2 – 12 days from date of contact with infected person
+When is the person
+contagious?
+When the cold sore is open.
+How to prevent
+spread of the illness
+to other children.
+Exclude children from the child care facility when it is their first attack with
+a cold sore and they drool or have a weeping or open cold sore. They can
+return when the cold sore is crusted over.
+Keep children with cold sores away from newborn babies, children with
+eczema or burns, and people with weakened immune systems.
+Avoid kissing a child or adult with cold sores. Ensure children do not kiss
+each other when they have cold sores or uncontrollable drooling.
+Ensure child with cold sores does not share toys (that are put in the
+mouth) with other children.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+12
+
+Croup : What is it? Croup is an infection of the throat and vocal cords (larynx). It is caused by
+a virus that causes the lining of the throat and larynx to become red and
+swollen. When children under 5 years of age have the illness, it is called
+croup. In older children, it is called laryngitis.
+Croup often starts a few days after the start of a cold and is caused by the
+same viruses that cause the common cold.
+Signs and symptoms of croup may include:
+¾ Cold – like symptoms that develop into a cough and fever
+¾ Raspy, hoarse voice
+¾ Loud, barking cough
+¾ High pitched noise when breathing in
+¾ Any activity that makes the child breathe faster could make the
+child sound worse (e.g., crying)
+¾ Tiredness
+Symptoms of croup are often worse at night.
+How is it spread? Direct and indirect contact with the nose and throat secretions of an
+infected child:
+¾ Touching an infected child’s nose and throat
+secretions
+¾ Touching the hands of an infected child (as
+they are likely contaminated with nose and
+throat secretions)
+¾ Touching an object that has been contaminated with the
+virus
+¾ Breathing in air infected with the virus after an infected child has
+coughed or sneezed
+Incubation period Usually 1 – 10 days
+When is the person
+contagious?
+From shortly before symptoms start until the end of active disease
+How to prevent
+spread of the illness
+to other children.
+For cases of mild croup, a child may attend school or the child care facility
+if he/she feels well enough to take part in activities.
+If a child with croup is having difficulty breathing, try:
+¾ Warm mist – run a warm shower in a bathroom with the door
+closed. Sit in the bathroom with the child so the child can breathe
+the mist.
+¾ If it is cold outside, bundle child up and take him/her outside. The
+cold air may help child’s breathing and cough.
+¾ Try to keep the child calm (crying will make the symptoms worse).
+¾ Suggest parents take child home or for medical treatment.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+13
+Cryptosporidiosis (“Crypto”)
+What is it? Cryptosporidium is a tiny parasite that can live in the intestines of humans
+and animals. It is protected by a tough outer shell that allows it to live
+outside the body for long periods of time and makes it resistant to chlorine
+disinfection. A person infected with cryptosporidium has cryptosporidiosis.
+Signs and symptoms of cryptosporidiosis may include:
+¾ Profuse and watery diarrhea
+¾ Abdominal pain and cramping
+¾ Vomiting and lack of appetite in children
+¾ Fever
+¾ Feeling generally unwell
+¾ Nausea
+Symptoms can come and go for up to 30 days but usually subside in
+1 – 2 weeks.
+How is it spread? Because the parasite is in feces, anything that gets contaminated with
+feces can spread the parasite. When a person ingests or touches
+something that is contaminated they may become infected. This includes:
+¾ Swallowing contaminated water in swimming pools, lakes, rivers, or
+ponds
+¾ Eating uncooked, contaminated food
+¾ Touching surfaces accidentally contaminated with stool from an
+infected person (e.g., toys, bathroom
+fixtures such as taps and light switches,
+changing tables, or diaper pails)
+¾ Contact with the feces of pets or farm
+animals
+The spread of cryptosporidium is highest among children who
+are not yet toilet trained and their caregivers.
+Incubation period Usually 1 – 12 days from initial contact (average is 7 days)
+When is the person
+contagious?
+Oocysts, the infectious stage of the parasite, are shed in stool as soon as
+symptoms begin. They continue to be found in stool for several weeks
+after recovery. Oocysts live for 2 – 6 months outside the body in moist
+environments.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from child care facility until 48 hours after their last episode
+of diarrhea or vomiting.
+¾ Exclude any individual with symptoms from food handling.
+¾ Wash toys and surfaces with a 5% ammonia solution. A bleach
+solution is not effective against cryptosporidium.
+¾ Ensure children wash their hands after petting an animal.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+14
+E. Coli (Escherichia Coli): Diarrhea Illness and
+Hemolytic Uremic Syndrome
+What is it? There are many strains of E. coli bacteria and most of them are harmless.
+Others cause diarrhea when a toxin is produced by the bacteria.
+Signs and symptoms of E. coli infection may include:
+¾ Loose, watery diarrhea than may change to bloody diarrhea
+¾ Mild to severe abdominal cramps
+¾ Vomiting
+¾ Fever (usually less than 38.5°C)
+Most people with E. coli infections recover completely within 5 – 7 days.
+Very young children and the elderly are more likely to develop severe
+illness and hemolytic uremic syndrome (HUS).
+HUS is an acute disease characterized by hemolytic anemia, acute renal
+failure (uremia), and a low platelet count.
+Symptoms of HUS may include:
+¾ Decreased urine output
+¾ Irritation
+¾ Fatigue
+¾ Pale skin
+Recovery is usually spontaneous but child may need hospitalization and
+dialysis during acute illness. About 5 – 10% of people who develop HUS
+will die. Children between the ages of 6 months and 4 years are most likely
+to develop HUS.
+How is it spread? E. coli is spread when a person gets tiny (usually invisible) amounts of
+human or animal feces in their mouth:
+¾ Eating raw or undercooked beef,
+especially hamburger
+¾ Eating raw fruits and vegetables that
+have not been washed or peeled
+¾ Drinking unpasteurized milk or juice
+¾ Touching surfaces accidentally contaminated with
+stool from an infected person (e.g., toys, bathroom fixtures such as
+taps and light switches, changing tables, or diaper pails)
+Incubation period Usually 3 – 4 days (range is 2 – 10 days)
+When is the person
+contagious?
+Usually for the duration of diarrhea (1 week or less). Young children may
+continue to shed the bacteria in their stool for up to 3 weeks.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school and child care until diarrhea has stopped.
+¾ Exclude any individual with symptoms from food handling and child
+care.
+¾ In a child care setting, advise ill child or care provider to get a medical
+assessment before returning to the child care facility.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+15
+Fifth Disease (Erythema Infectiosum)
+What is it? Fifth disease is caused by a virus, human parvovirus B19.
+It is sometimes called “slapped cheek” disease because of the appearance
+of the rash.
+Signs and symptoms of fifth disease may include:
+¾ Flu-like symptoms (e.g., runny nose, sore throat, mild body
+weakness and joint pain, fever) may be present about 7 days
+before onset of rash
+¾ Raised, red rash that first appears on child’s cheeks
+¾ The lace-like rash spreads to the rest of the body after 1 – 4 days,
+first on torso and arms, and then on to the rest of the child’s body
+¾ After the rash fades, it may continue to re-appear for 1 – 3 weeks
+when child is exposed to sunlight or heat (e.g., bathing).
+At least 50% of adults had fifth disease as a child and won’t get it again.
+Adults who do develop fifth disease may experience fever and joint pain.
+How is it spread? Through direct and indirect contact with the virus:
+¾ Touching the hands of someone who is infected with the virus and
+is in the contagious period
+¾ Touching something that has been touched by someone who is
+infected with the virus and is in the
+contagious period
+¾ Breathing in air contaminated with the virus
+after an infected person has coughed or
+sneezed.
+Fifth disease can be transmitted from a pregnant woman to
+her unborn baby. The baby can get severe anemia that leads to
+congestive heart failure.
+Incubation period Usually 4 – 20 days from contact with infected person
+When is the person
+contagious?
+Usually for 7 – 10 days before onset of rash
+Once the rash appears, the child can no longer pass it on to anyone else.
+How to prevent
+spread of the illness
+to other children.
+Child may go to school or child care if they are feeling well enough to take
+part in the activities.
+Encourage pregnant women working at the school or child care facility who
+are contacts of an infected child to contact their primary health care
+provider to determine whether or not they are immune to fifth disease.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+16
+Giardiasis (“Beaver Fever”)
+What is it? Giardia is a parasite that causes a bowel infection. Once a person or
+animal is infected with giardia, the parasite lives in the intestine and is
+passed in stool. It can live for long periods of time outside the body.
+Giardia can infect humans and animals (e.g., cats, dogs, cattle, deer, and
+beavers). A person infected with giardia has giardiasis.
+Sometimes there are no symptoms.
+Signs and symptoms of giardiasis may include:
+¾ Diarrhea (may have a bad smell or greasy appearance)
+¾ Abdominal cramps
+¾ Bloating and gas
+¾ Fatigue
+¾ Loss of appetite and nausea
+How is it spread? Giardia parasites are found on surfaces or in soil, food, or water that has
+been contaminated with the stool of infected humans or animals.
+Giardia is spread by:
+¾ Drinking contaminated water or ice made from contaminated water
+¾ Eating uncooked food that is
+contaminated with giardia
+¾ Swallowing lake or swimming pool water
+that is contaminated
+¾ Direct contact with infected stool (e.g.,
+changing a diaper, assisting a child with
+toileting)
+¾ Touching surfaces accidentally contaminated with stool
+from an infected person (e.g., toys, bathroom fixtures such as taps
+and light switches, changing tables, or diaper pails)
+An individual who is not treated with medication may release giardia
+parasites in their stool for several months after recovering.
+Incubation period Usually 7 – 10 days (range is 3 – 25 days)
+When is the person
+contagious?
+For the entire period of infection, often months
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 48 hours after their last
+episode of diarrhea or vomiting.
+Exclude any individual with symptoms from food handling and child care.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+17
+Haemophilus Influenzae type B (Hib)
+What is it? Hib was the most common cause of bacterial meningitis in children aged 2
+months to 5 years of age before the introduction of Hib vaccine in 1988.
+Since then, the incidence of Hib disease has decreased significantly. The
+majority of cases in children now occur in unimmunized children or in
+children who are too young to have received their primary series of
+vaccines at 2, 4, and 6 months of age.
+Signs and symptoms of Hib meningitis usually occur suddenly and may
+include:
+¾ Fever
+¾ Vomiting
+¾ Tiredness
+¾ Bulging fontanelle (soft spot) in infants
+¾ Stiff back and neck in older children
+Hib bacteria also cause epiglottitis, bacteremia, septic arthritis, cellulitis,
+and pneumonia. There are other illnesses such as ear infections, sinusitis,
+bronchitis, and other respiratory illnesses caused by other types of H.
+influenzae bacteria.
+How is it spread? Through contact with secretions from the nose and throat of an infected
+person.
+¾ Breathing in air contaminated with the
+bacteria after an infected person has
+coughed or sneezed
+¾ Close face to face contact
+¾ Kissing
+¾ Sharing food, utensils, drinks, soothers, bottles,
+or toys used by other children.
+Incubation period The exact length of the incubation period is not known but is thought to be
+short (i.e., 2 – 4 days).
+When is the person
+contagious?
+As long as the organism is present, which may be a long period if
+individual is not treated with antibiotics.
+¾ The child is no longer contagious after receiving 24 – 48 hours of
+antibiotics.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 24 hours after starting
+antibiotics.
+Contact the local public health unit. Antibiotics may be recommended for
+contacts of the infected child.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Hib vaccine is part of the routine immunization schedule starting at 2 months
+of age.
+18
+ Hand, Foot, and Mouth Disease
+What is it? Hand, foot, and mouth disease is caused by a coxsackie virus. It occurs
+mainly in the summer and early fall and is most common in children under
+10 years of age.
+Signs and symptoms of hand, foot, and mouth disease usually start
+suddenly and may include:
+¾ Fever
+¾ Sore throat
+¾ Headache
+¾ Small painful blisters inside the mouth on tongue and gums (last 4
+to 6 days)
+¾ Blisters may appear on the palms of child’s hands, on their fingers,
+and on the soles of their feet for 7 to 10 days
+It is possible to have the infection and not have any symptoms.
+How is it spread? Direct and indirect contact with nose and throat secretions and stool of an
+infected person
+¾ Breathing in air contaminated with the virus after an infected
+person has coughed or sneezed
+¾ Touching the nose and throat secretions of an infected person and
+then touching own eyes, nose, or mouth
+¾ Touching infected child’s stool (e.g.,
+assisting with toileting, changing a diaper)
+¾ Touching objects (e.g., toys, tables, taps,
+door handles) contaminated with the virus
+Spreads very easily in child care facilities and where
+children are close together.
+Incubation period Usually 3 – 6 days from contact with an infected person
+When is the person
+contagious?
+During the stage of acute illness, usually for about 7 – 10 days. The virus
+can be found in stool for 4 weeks after start of illness.
+How to prevent
+spread of the illness
+to other children.
+Child can attend school or child care if the child feels well enough to take
+part in activities.
+Carefully dispose of (or clean, if applicable) articles soiled by discharge
+from an infected child’s nose and throat or stool.
+Clean and disinfect all common toys and surfaces. Clean and disinfect
+diaper change area after each diaper change.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+19
+Head Lice (Pediculosis)
+What is it? Head lice are tiny insects that live on the scalp. Lice have 3 stages in their
+life cycle:
+• Nits (eggs) are whitish gray, tan, or yellow ovals, about the size of a
+grain of sand. They are found stuck to the hair, often behind the ears or
+at the back of the neck. Nits hatch in 9 – 10 days.
+• Nymphs are young lice. They look like adults but are smaller.
+• Adult lice are about the size of a sesame seed. Adult lice can live up to
+30 days on a person’s head. They move around on the scalp and are
+much more difficult to see than nits.
+Detection of a live louse is the best way to confirm head lice. The most
+effective method of detecting live lice is by using a fine tooth lice comb on
+dry or wet hair.
+Signs and symptoms of head lice may include:
+¾ Itchy scalp (may be worse at night)
+¾ Scratching marks or small red lesions like a rash
+¾ Child may have head lice and not have any symptoms
+Nymphs and adult lice can live for up to 2 days away from the scalp. Eggs
+can live for up to 3 days away from the scalp but need the higher
+temperature near the scalp to hatch.
+How is it spread? ¾ Direct hair to hair contact is the most common method of spread.
+¾ Indirect contact when children share hats, combs, hairbrushes, hair
+accessories, helmets, or headphones.
+Head lice cannot fly or hop, but they do crawl very quickly.
+Head lice that live on people cannot live on pets, such as cats and dogs.
+Incubation period Period from laying of eggs to emerging adult lice is 14 – 23 days
+How long can head
+lice be spread?
+As long as live lice and live nits are present
+How to prevent
+spread of the
+infestation to other
+children.
+Child does not need to be excluded from a child care facility or school.
+¾ Provide parents with information regarding checking for head lice and
+treatment options.
+¾ Discourage direct head to head contact between children.
+¾ Encourage children not to share things like hats, combs, hairbrushes,
+helmets, or headphones.
+¾ Items that may have been in prolonged or intimate contact with the
+child’s head at the school or child care facility can be washed in hot
+water. Items that can’t be washed can be placed in a plastic bag for 2
+weeks or in the freezer for 48 hours.
+20
+Hepatitis A
+What is it? Hepatitis A is an infection of the liver caused by the Hepatitis A virus. It is
+usually mild and rarely causes permanent liver damage. Hepatitis A is
+usually more serious in adults than children.
+Signs and symptoms of hepatitis A may include:
+¾ Fever
+¾ Fatigue
+¾ Loss of appetite, nausea, and vomiting
+¾ Abdominal pain
+¾ Jaundice (yellowing of the skin and eyes)
+Most infants and young children infected with hepatitis A have no
+symptoms.
+How is it spread? Hepatitis A virus is found in the stool of infected people. The virus is
+spread through:
+¾ Direct contact with the stool of an infected
+person
+¾ Direct contact with the hands of an infected
+person
+¾ Direct contact with an object
+contaminated with the virus
+¾ Eating food prepared by an infected person
+¾ Drinking contaminated water
+Incubation period Usually 25 – 30 days (range is 15 – 50 days)
+When is the person
+contagious?
+From about 14 days before onset of symptoms until about 7 days after
+onset of jaundice. Infants and children may continue to shed virus in their
+stool for up to 6 months.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care facility for 14 days from the onset of
+illness or 7 days from the onset of jaundice, whichever is longer.
+Contact the local public health unit. Hepatitis A vaccine or immune globulin
+may be recommended for people in contact with a case of hepatitis A.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+There is a vaccine to protect against hepatitis A. It is provided free to
+individuals with certain health conditions and individuals who are
+contacts of a case of hepatitis A. 
+21
+Impetigo
+What is it? Impetigo is a common skin infection that is caused by group A
+streptococcal (strep) or staphylococcus aureus (staph) bacteria. Infection
+starts when strep or staph bacteria enter the body through a cut, insect
+bite, or scratch. It is most common in the summer.
+Impetigo is sometimes called “scalded skin syndrome” when caused by
+staph bacteria.
+Signs and symptoms of impetigo may include:
+¾ Clusters of red bumps or blisters surrounded by area of redness
+¾ There may be fluid oozing out of the blisters and they may develop
+a yellow (honey colored) or grey crust
+¾ Sores usually appear around the mouth and nose, and on skin not
+covered with clothes.
+Impetigo often affects school age children who live in crowded conditions,
+play sports, or have other skin conditions.
+How is it spread? Direct contact with the rash or discharge from the rash of an infected
+person.
+Contact with secretions from the nose and throat of
+an infected person.
+The bacteria that cause impetigo can also get on
+towels, bed sheets, and clothing that have been in contact with
+the sore of an infected person.
+Incubation period Staph bacteria: 4 – 10 days from contact with an infected person
+Strep bacteria: 1 – 3 days from contact with an infected person
+When is the person
+contagious?
+As long as the rash continues to drain. After 24 hours of antibiotic
+treatment, a child with impetigo is no longer contagious.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 24 hours after starting
+antibiotic treatment.
+Suggest parents of a child with suspected impetigo take the child to their
+primary health care provider for confirmation and treatment.
+Carefully dispose of (or clean, if applicable) articles soiled by rash
+discharge or nose and throat secretions of an infected child.
+Ensure children do not share clothing, towels, wash cloths, or bedding with
+other children. Wash linens in hot water and dry in a hot dryer.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+22
+Influenza
+What is it? Influenza (the flu) is a respiratory illness caused by Influenza A and
+Influenza B viruses. Influenza season in Canada is usually November
+through April.
+Signs and symptoms of influenza may include:
+¾ Fever
+¾ Cough, sneezing, runny nose
+¾ Headache
+¾ Body aches and pain
+¾ Exhaustion
+¾ Sore throat
+¾ Nausea, vomiting, and diarrhea are more common in children than
+adults.
+Influenza is most serious for babies less than 2 years of age, adults over
+65 years of age, and people with chronic illnesses.
+How is it spread? ¾ Breathing in droplets containing influenza virus that have been
+coughed or sneezed into the air by an infected
+person.
+¾ Direct contact with the hands of an infected
+person (e.g., shaking hands, holding hands).
+¾ Contact with an object contaminated with the
+influenza virus (e.g., toys, furniture, doorknob, taps,
+computer keyboard, telephone, shopping cart handle).
+Influenza viruses can live for several hours on hard surfaces. Caregivers
+may get the flu virus on their hands by assisting a child to use a tissue and
+then spread it to other children by touching them.
+Incubation period Usually 1 – 4 days from contact with an infected person
+When is the person
+contagious?
+Usually from 1 day before to 5 days after symptoms develop (up to 7 days
+after symptoms develop for young children)
+How to prevent
+spread of the illness
+to other children.
+Child may attend school or child care if they feel well enough to take part
+in activities.
+Carefully dispose of (or clean, if applicable) articles contaminated with
+nose and throat secretions of an infected child.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Influenza vaccine is recommended and provided free for:
+• children 6 to 23 months of age
+• household contacts and those providing regular child care to children 0 to
+23 months of age
+• children and adults with a health condition that places them at high risk for
+influenza. 
+23
+Measles
+What is it? Measles is one of the most contagious communicable diseases. It is
+caused by the measles virus and is a leading cause of vaccinepreventable deaths in children worldwide.
+Signs and symptoms of measles may include:
+¾ Fever, cough, runny nose, and watery inflamed eyes
+¾ Small red spots with white or bluish white centers in the mouth
+¾ Dusky red, blotchy rash that begins on the face and spreads all
+over the body
+¾ Rash begins on 3rd to 7th day of illness and lasts 4 to 7 days
+A doctor may be able to diagnose measles based on a child’s symptoms
+but a blood test is recommended to confirm the diagnosis.
+How is it spread? Through the air by droplets that have been coughed, sneezed, or breathed
+by an infected person. The measles virus can
+survive in small droplets in the air for several
+hours.
+Through direct contact with nose and throat
+secretions of an infected person.
+Incubation period Usually about 10 days. Fever usually develops 7 - 18 days after exposure
+to infected person. Rash usually develops 14 days after exposure.
+When is the person
+contagious?
+From about 5 days before to 4 days after rash appears
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school, child care, and non-family contacts until 4 days
+after the rash appears.
+Contact the local health unit.
+¾ It is recommended that all contacts of a measles case who have not
+had measles disease or 2 doses of measles vaccine receive measles
+vaccine within 72 hours of last exposure to the infected child.
+¾ All susceptible contacts should stay away from the child care facility or
+school until they have received one dose of measles vaccine or the
+Medical Health Officer states it is safe for them to return.
+¾ Immune globulin is available to prevent measles disease in people who
+are exposed to a case of measles but who are unable to be immunized
+for any reason.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Measles vaccine is part of the routine childhood immunization schedule
+starting at 12 months of age. The vaccine, MMR, also provides protection
+against mumps and rubella.
+24
+Meningitis
+What is it? Meningitis is an inflammation of the membranes that surround the brain
+and spinal cord. Meningitis can be caused by a bacteria or a virus.
+Diagnosis of meningitis is made by a primary health care provider.
+Bacteria that cause meningitis include:
+• Haemophilus influenzae type B (Hib) (see Hib)
+• Neisseria meningitides (see Meningococcal Meningitis)
+• Streptococcus pneumoniae
+• Group B Streptococcus
+About 90% of cases of viral meningitis are caused by members of a group
+of viruses known as enteroviruses, such as coxsackieviruses and
+echoviruses. Polioviruses, mumps virus, and herpes simplex virus can
+also cause meningitis.
+Signs and symptoms of meningitis may include:
+¾ High fever, headache, and stiff neck are common in anyone over
+the age of 2 years.
+¾ Infants < 2 years of age may appear slow or inactive, be irritable,
+vomit, or be eating poorly.
+¾ Other symptoms may include nausea, vomiting, discomfort looking
+into bright lights, confusion, and sleepiness.
+¾ Seizures may occur as illness progresses.
+How is it spread? Viral meningitis is spread through direct contact with the nose and throat
+secretions of an infected person:
+¾ Direct contact with the hands of an infected
+person (e.g., holding hands or shaking
+hands)
+¾ Direct contact with an object contaminated
+with the virus
+The virus is also found in the stool of an infected person. The virus may be
+spread through direct contact with infected stool or contact with an object
+contaminated with virus from the stool.
+Incubation period For enterovirurses: about 3 – 7 days
+When is the person
+contagious?
+For enteroviruses: from about 3 days after infection to 10 days after
+developing symptoms
+How to prevent
+spread of the illness
+to other children.
+Child can attend school or child care facility if they feel well enough to take
+part in activities.
+Contact the local public health unit.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+25
+Meningococcal Meningitis
+What is it? Meningococcal meningitis is an infection of the lining of the brain caused
+by the bacteria, Neisseria meningitidis. It can cause serious illness and
+death. The case fatality rate is 8 – 15%. The bacteria that cause meningitis
+can be found in the nose and throat of 5% to 10% of people at any time.
+Less than 1% of infected people will develop invasive meningococcal
+disease. Meningococcal bacteria also cause septicemia, pneumonia, and
+conjunctivitis.
+Symptoms of meningococcal meningitis occur suddenly and may include:
+¾ Fever
+¾ Intense headache
+¾ Nausea and often vomiting
+¾ Bulging fontanelle (soft spot) in infants
+¾ Stiff neck
+¾ Stiff back in older children
+¾ Pinpoint rash
+Diagnosis is confirmed with a test of blood and cerebrospinal fluid (CSF).
+How is it spread? Direct contact with the nose and throat secretions of an infected person
+¾ Kissing
+¾ Sharing anything that is put in the mouth (e.g.,
+food, drinks, baby bottles, soothers, sippy cups,
+lipstick, water bottles, mouth guards used for
+sports, or mouthpieces of musical instruments)
+¾ Breathing air contaminated by the bacteria when an infected
+person has coughed or sneezed
+Incubation period Range is 2 – 10 days (usually 3 – 4 days) from contact with an infected
+person to onset of fever
+When is the person
+contagious?
+From 7 days prior to the onset of symptoms until 24 hours after antibiotics
+are started
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 24 hours after antibiotics are
+started.
+Contact the local public health unit. A child diagnosed with meningococcal
+meningitis will be hospitalized and treated with antibiotics. Household and
+other close contacts (including children and staff in child care and
+preschool facilities) will be offered antibiotics. For some types of
+meningococcal meningitis, they will also be offered vaccine. Antibiotics are
+usually not recommended for casual contacts (e.g., school or classroom
+contacts or transportation and workplace contacts).
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Vaccine to prevent meningococcal type C infection is part of the routine
+immunization schedule for all children at 2 and 12 months of age. There is a
+vaccine to prevent other types of meningococcal infection available for people
+with a compromised immune system or in an outbreak situation.
+26
+Methicillin-Resistant Staphylococcus Aureus
+(MRSA)
+What is it? MRSA is an infection with Staphylococcus aureus bacteria that have
+become resistant to certain antibiotics, including methicillin, penicillin, and
+amoxicillin.
+Infections with Staphylococcus aureus (staph infections) are relatively
+common and usually harmless. Staph infections have often been treated
+with antibiotics in the penicillin family. Because these antibiotics have been
+used frequently, some staph bacteria have changed so that they can
+survive even when these antibiotics are present. These types of staph
+bacteria are referred to as methicillin-resistant staph aureus, (MRSA).
+There are other types of antibiotics that can be used to treat MRSA
+infections.
+Signs and symptoms of a staph infection or MRSA may include:
+¾ Red, painful bumps under the skin (i.e., boils or abscesses)
+¾ Sores may be painful and may contain pus or may be covered with
+a honey colored crust
+¾ Sometimes, the sores look like spider bites
+¾ Fever and chills
+Most staph infections heal quickly when treated with antibiotics.
+More severe infections can lead to infection of the blood, bones, brain,
+heart, or lungs.
+How is it spread? Direct skin – to – skin contact
+Contact with a surface or object (e.g., doorknob,
+faucet) that is contaminated with MRSA bacteria
+Incubation period Variable
+When is the person
+contagious?
+As long as sores continue to drain
+How to prevent
+spread of the illness
+to other children.
+Child can attend school or the child care facility if the sore is not draining
+or can be covered with a dry dressing. The child should avoid activities
+such as sports that involve skin to skin contact until the infection is healed.
+¾ Ensure children do not share facecloths, towels, or bedding. Wash all
+linens in hot water and dry in a hot dryer.
+¾ Carefully dispose of (or clean, if applicable) articles that are soiled with
+discharge from the child’s sore.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+27
+Molluscum Contagiosum
+What is it? Molluscum contagiosum is a viral infection of the skin infection caused by
+a poxvirus.
+Signs and symptoms of molluscum contagiosum may include:
+¾ Tiny painless bumps on the skin that grow over several weeks
+¾ Bumps become small, waxy, pinkish-white, raised lesions which
+may have a small crater in the center of them
+¾ Bumps may become swollen and red as part of the body’s
+response to the virus.
+In children, the bumps most often appear on the face, body, legs, and
+arms. In adults, they can appear anywhere on the body.
+Without treatment, the infection usually lasts 6 months to 2 years.
+How is it spread? Through direct skin to skin contact:
+¾ Direct contact with the lesions
+¾ Direct contact with the hands of an
+infected person
+¾ Direct contact with a contaminated
+object (i.e., object has been touched
+by an infected person after they scratched the
+lesions)
+In children, the lesions can be spread to another part of the body by
+scratching.
+Incubation period Range is 7 days to 6 months
+When is the person
+contagious?
+Unknown, probably as long as lesions exist
+How to prevent
+spread of the illness
+to other children.
+Child may attend school or child care facility as long as they are feeling
+well enough to take part in activities.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+28
+Mononucleosis (“Mono”)
+What is it? Mono is caused by the Epstein-Barr virus (EBV). It is most common in
+older children and adolescents. About half of the people infected with EBV
+will develop symptoms.
+Signs and symptoms of mono may include:
+¾ Fever
+¾ Sore throat
+¾ Swollen lymph glands
+¾ Lethargy (exhaustion)
+¾ Enlarged liver and spleen
+¾ Jaundice (yellowing of the skin and eyes) occurs occasionally
+How is it spread? Through direct and indirect contact with the nose and throat secretions of
+an infected child:
+¾ Kissing
+¾ Sharing anything that children put in their
+mouths (e.g., toys, sippy cups, food, drinks,
+soothers)
+¾ Touching something contaminated with an
+infected person’s saliva
+Incubation period Usually 4 – 6 weeks from contact with an infected person
+When is the person
+contagious?
+Unclear, but prolonged. The infected child is most infectious when
+symptoms are at their peak but may remain infectious for up to a year after
+illness.
+How to prevent
+spread of the illness
+to other children.
+Child may go to school or child care when they feel well enough to take
+part in activities. This may take 1 – 2 weeks or longer after symptoms
+develop.
+Carefully dispose of (or clean, if applicable) articles soiled with the nose
+and throat secretions of an infected child.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+29
+Mumps
+What is it? Mumps disease is caused by the mumps virus. Many children have mild or
+no symptoms but they are still contagious to others. Adults are more likely
+to experience complications than children.
+Signs and symptoms of mumps may include:
+¾ Fever
+¾ Headache
+¾ Swollen and painful salivary glands (found in front of and below the
+ear or under the jaw)
+Complications of mumps disease include:
+¾ Meningitis (inflammation of the lining of the brain) in 20% of people
+infected
+¾ Orchitis (inflammation of the testicle) in 20-30% of post-pubertal
+males
+¾ Oophoritis (inflammation of the ovary) in 5% of post-pubertal
+females
+¾ Deafness and infertility occur occasionally.
+How is it spread? Through direct or indirect contact with nose and throat secretions of an
+infected person
+¾ Breathing air contaminated with the virus when
+an infected person has coughed or sneezed
+¾ Touching the nose and throat secretions of an
+infected person
+¾ Kissing
+¾ Sharing anything that is put in the mouth (e.g.,
+cups, toys)
+Incubation period Usually 16 – 18 days from contact with an infected person but can range
+from 14 – 25 days
+When is the person
+contagious?
+From 7 days before to 9 days after the onset of swelling
+¾ Child is most contagious 2 days before to 4 days after the onset of
+illness.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care facility for 9 days after the onset of
+swelling if there are any unimmunized children.
+Contact the local public health unit.
+Carefully dispose of (or clean, if applicable) articles soiled with nose and
+throat secretions of an infected child.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Mumps vaccine is part of the routine childhood immunization schedule
+starting at 12 months of age. The vaccine, MMR, also provides protection
+against measles and rubella. 
+30
+Norovirus (“Norwalk virus”)
+What is it? Noroviruses are a group of viruses that cause vomiting and diarrhea in all
+ages. Noroviruses do not infect animals and do not survive long outside
+the body. Young children, the elderly, and people with weakened immune
+systems may become dehydrated if they are unable to replace fluids lost
+with vomiting and diarrhea.
+Signs and symptoms of norovirus infection usually develop suddenly and
+may include:
+¾ Nausea and vomiting
+¾ Diarrhea
+¾ Abdominal cramping
+¾ Mild fever
+¾ Headache
+¾ Muscle aches
+¾ Fatigue
+Symptoms usually last for 1 – 2 days. Complications and severe illness are
+rare.
+How is it spread? Noroviruses are found in the stool or vomit of infected people. The virus
+can be spread by:
+¾ Direct contact with an infected child’s stool or vomit
+¾ Touching a surface that was contaminated with the virus.
+Noroviruses can live for a short time on
+surfaces such as sinks, taps, counters, and
+toys.
+¾ Touching the hand of an infected person or
+a person who recently changed a child’s
+diaper or assisted a child with toileting
+¾ Consuming food or drink prepared by an infected
+person or a person who recently changed a child’s diaper or
+assisted a child with toileting
+Noroviruses can also be spread by droplets in the air:
+¾ breathing in air contaminated with the norovirus when an infected
+person has vomited
+Incubation period Usually 24 - 48 hours
+When is the person
+contagious?
+From the moment a person feels ill until at least 48 hours after diarrhea
+stops
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until at least 2 days after diarrhea
+stops.
+¾ Exclude any individual with symptoms from food handling for 3
+days after recovery.
+Carefully dispose of (or clean, if applicable) articles soiled with vomit or
+stool from an infected child.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+31
+Pertussis (Whooping Cough)
+What is it? Pertussis is a very contagious respiratory illness caused by the bacteria,
+Bordetella pertussis. It can cause serious illness in adults and children.
+Infants under one year of age are at highest risk. Each year 1 – 3 deaths
+occur in Canada as a result of pertussis, primarily in young infants. If a
+pregnant woman has pertussis 2-3 weeks before labour, the infant is at
+high risk of pertussis disease.
+Signs and symptoms of pertussis may include:
+¾ Runny nose, low grade fever, and mild cough
+¾ After 1 – 2 weeks, the cough worsens
+¾ Child will cough violently and rapidly, over and over, until no air is
+left in their lungs. Child will then inhale with characteristic
+“whooping” sound
+¾ Child will sometimes vomit after coughing
+¾ Coughing will last for several weeks (will usually start to decrease
+after about 6 weeks)
+Adults and adolescents may be infected with pertussis bacteria and not
+experience any of the above symptoms or have only mild illness.
+How is it spread? Through direct contact with the respiratory secretions of an infected person
+¾ Breathing in air contaminated with pertussis when an infected
+person has coughed or sneezed
+¾ Sharing anything that is put in the mouth
+(e.g., cup, toys)
+¾ Kissing
+¾ Touching the nose and throat secretions of
+an infected person or touching articles
+freshly soiled by an infected person.
+Infected adults or adolescents with mild illness or no symptoms
+may infect infants.
+Incubation period Usually 7 – 10 days (range is 5 – 21 days)
+When is the person
+contagious?
+Usually from the time when first symptoms develop (1 – 2 weeks before
+severe coughing starts) until about 3 weeks after cough starts
+¾ A child who is started on antibiotics is not infectious after 5 days of
+antibiotic therapy.
+How to prevent
+spread of the illness
+to other children.
+Notify the local public health unit. Exclusion of a child from school or child
+care is at the Medical Health Officer’s discretion.
+¾ Antibiotics may be recommended for high risk, close contacts of a
+child with pertussis (i.e., infant under 1 year of age, pregnant
+woman in her third trimester) or when there is a high risk person in
+the household or child care facility.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Pertussis vaccine is included in the routine immunizations given to infants
+starting at 2 months of age. Pertussis vaccine is routinely given at 2 months,
+4 months, 6 months, 4 – 6 years, and 14 years of age. 
+32
+Pink Eye (Conjunctivitis)
+What is it? Pink eye is an infection of the covering of the eyeball and the inside of the
+eyelid. It is usually caused by a virus, but may be caused by bacteria or
+other irritant.
+Children under 5 years of age are most often affected.
+Signs and symptoms of pink eye may include:
+¾ Teary, red, itchy, painful eye(s)
+¾ Eyelid(s) may be swollen
+¾ Pus or thick discharge (yellow or yellowish-green color) can make
+eyelids sticky, especially during sleep
+¾ Fever
+¾ Eye(s) may be sensitive to sunlight
+How is it spread? Spreads easily through direct and indirect contact with discharge from an
+infected child’s eye:
+¾ touching the discharge from an infected child’s
+eye
+¾ a child with pink eye touches the discharge from
+his eye and then touches another child
+¾ an object that is contaminated with the virus or
+bacteria (e.g., tissue, facecloth, eye dropper, makeup
+applicator) is touched by another child’s hand or touches another
+child’s eye
+When pink eye is caused by a cold virus, the droplets from a sneeze or
+cough can also spread the virus.
+Incubation period Usually 1 – 3 days from contact with an infected person
+When is the person
+contagious?
+During active infection when the child has symptoms
+¾ If the pink eye is caused by bacteria and the child is started on
+antibiotic treatment, he/she will not be contagious 24 hours after
+starting antibiotic treatment.
+How to prevent
+spread of the illness
+to other children.
+If a child is started on antibiotics, exclude child from school or child care
+facility until 24 hours after antibiotics started.
+If pink eye is caused by a virus or other irritant, child may return to school
+or child care facility after seeing a primary health care provider.
+Ensure children do not share washcloths, towels, or bedding.
+Carefully dispose of articles (or clean, if applicable) contaminated with
+secretions from a child’s eye immediately after use.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+33
+Pinworms
+What is it? Pinworms are tiny, white, thread – like worms that live in the large
+intestine. The female worms crawl out of the anus (bum) at night and lay
+their eggs on nearby skin. Pinworms can be unpleasant and uncomfortable
+but they do not cause disease.
+Often, children with pinworms have no symptoms
+Signs and symptoms of pinworm infection may include:
+¾ intense itchiness around anus and vagina, especially at night
+¾ sleeplessness
+¾ irritability
+Pinworm infections are common, especially among school aged and
+preschool aged children, and children attending a child care facility.
+How is it spread? An infected child who scratches the itchy area can get pinworm eggs on
+his / her fingers or under the fingernails. If that child touches another
+person’s mouth or hands, they will spread the pinworms.
+Eggs from an infected child can get onto objects (e.g., toys, toilet seats or
+baths, clothes, or bedding). By sharing these objects, people can pick up
+the eggs and then put them in their mouth with their hands.
+Eggs can live for 2 weeks outside the body, on
+clothing, bedding, or other objects.
+Because the eggs are so small, they can
+become airborne (i.e., if bed sheet is shaken)
+and ingested while breathing.
+Incubation period The time from first contact with eggs until symptoms appear is usually 1 to
+2 months or longer.
+When is the person
+contagious?
+As long as female worms are still present and producing eggs.
+How to prevent
+spread of the
+infestation to other
+children.
+Child can return to preschool or child care after receiving appropriate
+treatment (usually one dose of a prescribed oral medication).
+Vacuum living areas.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+34
+Respiratory Syncytial Virus (“RSV”)
+What is it? RSV is a virus that causes upper and lower respiratory tract infections. It
+can cause bronchiolitis and pneumonia in young children and infants.
+RSV is usually a mild disease that can be managed at home. Children who
+are at risk for more serious illness and hospitalization are:
+• Infants younger than 1 year of age (especially those between 6
+weeks and 6 months of age)
+• Premature infants
+• Children and infants with breathing or heart problems
+• Children or infants with weakened immune systems
+Signs and symptoms of RSV often resemble the common cold and may
+include:
+¾ Stuffy or runny nose (Nasal discharge is usually clear)
+¾ Low grade fever or chills
+¾ Cough
+¾ Earache
+¾ Rapid breathing or wheezing
+¾ Listlessness, inactivity, decreased interest in surroundings
+¾ Poor feeding
+The symptoms of RSV may resemble other illnesses. A diagnosis of RSV
+is made by a doctor or nurse practitioner.
+How is it spread? Through contact with infected secretions from the eyes, nose, and mouth
+of an infected child:
+¾ Breathing air contaminated with the virus
+when an infected person has coughed or
+sneezed
+¾ Touching the secretions from an infected
+child’s eyes, nose, or mouth
+¾ Touching surfaces that have been contaminated with
+the virus. The RSV virus can live on hard surfaces (e.g., toys,
+doorknobs) for many hours. It can survive on hands for 30 minutes.
+It can also live on soft surfaces (e.g., tissue, clothes, and towels).
+Incubation period Range is 2 – 8 days (usually 4 – 6 days)
+When is the person
+contagious?
+Usually for 3 – 8 days, starting right before the onset of symptoms
+How to prevent
+spread of the illness
+to other children.
+Child can return to school or the child care facility when feeling well
+enough to take part in activities.
+¾ Carefully dispose of (or clean, if applicable) articles soiled by
+discharges from an infected child’s eyes, nose, or mouth.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+There is no vaccine to prevent RSV. There is a medication to help prevent severe RSV
+illness in high risk infants. It is administered by the infant’s doctor.
+35
+Ringworm
+What is it? Ringworm is a skin infection caused by a fungus. It can be found on the
+scalp, body, groin, or feet.
+Signs and symptoms of a ringworm infection may include:
+¾ Ring shaped rash that is reddish and may be itchy
+¾ Rash may be dry and scaly or wet and crusty
+¾ If ringworm infection is on the scalp, there may be patches of hair
+loss or hair thinning
+Scalp ringworm is very contagious, especially among children. It mainly
+affects children between 2 and 10 years of age.
+Foot ringworm (athlete’s foot) affects males more than females and is
+more common after puberty. Symptoms of foot ringworm may include foot
+itching, rash or blisters on foot, and scaling of foot.
+How is it spread? Through direct contact with an area of ringworm infection.
+Ringworm is also spread when a person with
+ringworm scratches the rash and gets the fungus
+on their fingers or under their fingernails. They
+can spread the fungus when touching another
+person or object.
+Contact with infected articles (e.g., hairbrushes, combs,
+unwashed clothes or towels, pillows, and pool or shower surfaces)
+¾ The fungus can live for long periods of time on contaminated
+articles and surfaces.
+It is possible to become infected by contact with infected animals such as
+dogs, cats, and farm animals.
+Incubation period Usually 4 – 14 days
+When is the person
+contagious?
+As long as lesions are present
+How to prevent
+spread of the
+infection to other
+children.
+Exclude child from school or child care until child sees a primary health
+care provider and has taken the first dose of prescribed medication.
+Advise children to avoid petting animals with bald spots.
+Ensure children do not share hairbrushes, combs, towels, or pillows.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+36
+Roseola Infantum (“Sixth Disease”)
+What is it? An acute rash disease caused by a virus.
+There are many viruses that can cause roseola. The most common virus is
+human herpesvirus-6 virus.
+Signs and symptoms of roseola may include:
+¾ Fever (usually ≥ 39.5°C) appears suddenly and lasts 3 – 5 days
+¾ Febrile seizures may occur
+¾ Swelling of eyelids may occur
+¾ Rash usually develops as fever is resolving
+¾ Rosy – pink rash develops first on neck and chest, and then
+spreads to rest of the body
+¾ The spots (rash) turn white if you gently press on them and they
+may have a lighter color ring around them
+¾ Rash usually lasts 1 – 2 days
+Roseola occurs most commonly between the ages of 6 months and 2
+years. It is rarely seen after 4 years of age.
+How is it spread? Through direct contact with the nose and throat secretions of an infected
+person.
+¾ Breathing in air contaminated with the
+roseola virus when an infected person has
+talked, laughed, coughed or sneezed
+Older siblings, caregivers, and parents may spread the
+disease to infants.
+Incubation period Usually 10 days from contact with an infected person (range is 5 – 15
+days)
+When is the person
+contagious?
+An infected child is probably most contagious during the period of high
+fever, before a rash develops.
+The exact duration of infectiousness is unknown. Many adults have the
+virus present in their saliva (even if they were infected as children) and
+may spread the disease to infants.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care facility until fever and rash are
+gone.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+37
+Rotavirus
+What is it? Rotavirus is the most common cause of severe diarrhea among young
+children. It usually affects children between the ages of 6 months and 2
+years.
+Outbreaks of rotavirus usually happen in winter and spring in Canada.
+Signs and symptoms of rotavirus infection may include:
+¾ Fever (may be as high as 40°C)
+¾ Vomiting
+¾ About 12 – 24 hours later, child starts to pass large amounts of
+watery diarrhea
+¾ Abdominal pain
+The illness usually lasts 3 – 7 days.
+Most children recover completely without treatment. Some children need to
+be hospitalized for re-hydration (replacement of fluids lost) due to diarrhea.
+How is it spread? Children with rotavirus have large numbers of the virus in their stool. The
+virus spreads easily in a child care facility or family home.
+Through direct contact:
+¾ changing an infected child’s diaper or
+assisting a child with toileting
+Through indirect contact:
+¾ touching an object (e.g., toy, faucet,
+doorknob) that was contaminated with rotavirus. The virus
+is able to survive for long periods on hard surfaces, in
+contaminated water, and on hands.
+Incubation period Usually 1 – 3 days
+When is the person
+contagious?
+During the acute stage of illness and until diarrhea stops
+¾ Rotavirus is not usually found in children’s stool after the 8th day of
+infection.
+How to prevent
+spread of the illness
+to other children.
+Child can return to child care facility when feeling well enough to take part
+in activities.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+38
+Rubella (German Measles)
+What is it? An acute disease caused by the rubella virus. An infection with the rubella
+virus gives lifelong immunity. Rubella is usually a mild disease in children
+and adults. Rubella can be confused with other rashes and needs to be
+confirmed by a doctor or nurse practitioner.
+Signs and symptoms of rubella may include:
+¾ Low-grade fever
+¾ Malaise, tiredness
+¾ Raised, red, pinpoint rash that starts on the face and spreads
+downwards
+¾ Rash lasts 3 – 5 days
+¾ 50% of adolescents and adults with rubella develop muscle and
+joint pain
+Rubella infection during pregnancy can cause severe birth defects,
+miscarriage, or stillbirth. 85% of fetuses who are infected with rubella in the
+first 10 weeks of pregnancy will develop Congenital Rubella Syndrome
+(CRS). CRS may include deafness, eye problems, heart defects, liver,
+spleen, and brain damage.
+How is it spread? Through contact with the nose and throat and secretions of an infected
+person:
+¾ Breathing in air contaminated with the rubella virus when an
+infected person has coughed or sneezed
+¾ Touching articles contaminated with
+secretions form the nose and throat of an
+infected person
+¾ Kissing or sharing anything that is put in
+the mouth
+Infants with CRS can shed rubella virus in their nose and
+throat secretions and urine for up to one year.
+Incubation period Usually 14 – 21 days from contact with an infected person
+When is the person
+contagious?
+From 7 days before until 7 days after the onset of the rash. A child with
+rubella is most infectious when the rash is erupting.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or the child care facility for 7 days after the onset
+of the rash.
+¾ Contact the local public health unit.
+¾ Encourage pregnant women working at the school or child care facility
+who are contacts of an infected child to contact a doctor to determine
+whether or not they are immune to rubella.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Rubella vaccine is part of the routine childhood immunization schedule
+starting at 12 months of age. The vaccine, MMR, also provides protection
+against measles and mumps.
+39
+Salmonellosis
+What is it? Salmonellosis is an infection with bacteria called Salmonella. There are
+many different kinds of salmonella bacteria. Most of the time, the bacteria
+infect the intestines of people and animals, causing a diarrhea illness.
+Sometimes, the bacteria enter the bloodstream of the infected person,
+causing a much more severe illness.
+Signs and symptoms of salmonellosis occur suddenly and may include:
+¾ Headache
+¾ Fever
+¾ Diarrhea
+¾ Abdominal cramps
+¾ Nausea and sometimes vomiting
+Salmonella infections usually last 5 – 7 days and resolve without
+treatment.
+The diarrhea may be so severe that the person may need to be
+hospitalized and treated with antibiotics to prevent the bacteria from
+spreading into the bloodstream. Infants and people with weakened
+immune systems are more likely to develop severe disease.
+How is it spread? Salmonella are usually spread by eating contaminated food, often of
+animal origin (e.g., beef, poultry, milk, or eggs). Fruit and vegetables may
+also be contaminated. Thorough cooking kills salmonella bacteria.
+Salmonella may also be spread by eating food
+prepared by an infected person who has not
+washed their hands.
+Salmonella is also found in the feces of some
+pets, especially those with diarrhea. Turtles, lizards,
+snakes, chicks, and ducklings often carry salmonella.
+Incubation period Usually 12 – 36 hours (range is 6 – 72 hours)
+When is the person
+contagious?
+Throughout the course of infection
+¾ Occasionally, infants carry the bacteria for months after illness.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 48 hours after last episode of
+vomiting or diarrhea.
+Exclude individuals with symptoms from food handling and child care until
+48 hours after diarrhea stops or until 2 stool cultures are negative.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+40
+Scabies
+What is it? Scabies is caused by tiny (microscopic) insects called mites. The mites
+burrow under the upper layer of skin to live and lay eggs.
+Signs and symptoms of scabies may include:
+¾ Intense itching, especially at night
+¾ A pimple – like rash may be present
+¾ Itching and rash may be all over the body but the most common
+sites are between the fingers, wrists, elbows, armpits, groin area,
+nipples, waist, buttocks, and shoulder blades.
+¾ Tiny burrows that look like grayish-white or skin-colored lines on
+the skin may be seen
+In children under 2 years of age, the rash can appear on the face, head,
+neck, chest, and abdomen. Red bumps, tiny white lines, or scratch marks
+may be seen.
+Scabies is not caused by poor hygiene.
+How is it spread? Through direct skin to skin contact with a person with scabies.
+Indirectly through sharing clothes, towels, or bedding
+(less common). Scabies mites can survive off human
+skin for 2 – 3 days.
+Mites can burrow beneath the skin in 2.5 minutes.
+Incubation period Usually 2 – 6 weeks in people who have not had scabies before
+¾ In people who have had scabies previously, symptoms develop 1 –
+4 days after re-exposure.
+When is the person
+contagious?
+Until mites and eggs are destroyed by treatment
+A person with scabies infestation can transmit scabies even if they do not
+have any symptoms.
+How to prevent
+spread of the
+infestation to other
+children.
+Exclude child from school or child care until after the child completes one
+treatment.
+¾ Inform parents of children in direct contact with child with scabies so
+that all family members and close contacts of child can be treated at
+the same time.
+¾ Wash bedding, towels, and clothing worn next to the skin in the 4 days
+before treatment. Store any items that cannot be washed in a plastic
+bag for 7 days.
+¾ Vacuum carpets and soft or upholstered furniture.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+41
+Shigellosis
+What is it? Shigellosis is an infection with a group of bacteria called shigella. The
+bacteria are only found in human stool.
+Signs and symptoms of shigellosis may include:
+¾ Diarrhea (often bloody)
+¾ Fever
+¾ Abdominal cramps
+¾ Nausea and vomiting
+A severe illness with fever and seizures may occur in children who are less
+than 2 years old.
+Illness usually lasts 4 to 7 days.
+Shigellosis can spread easily in child care facilities, especially where there
+are children between 2 and 4 years of age.
+How is it spread? By direct or indirect contact with stool from an infected person:
+¾ Direct contact with infected stool (e.g.,
+changing a diaper, assisting a child with
+toileting)
+¾ Contact with an object that has been
+contaminated with the bacteria (e.g.,
+toys, faucets, water in a children’s water
+table or wading pool)
+¾ Eating contaminated food
+¾ Drinking contaminated water
+Incubation period Usually 1 – 3 days
+When is the person
+contagious?
+During acute illness and for up to 4 weeks after diarrhea stops.
+¾ Treatment with antibiotics shortens the length of time a person is
+contagious.
+How to prevent
+spread of the
+infestation to other
+children.
+Contact the local public health unit. Exclusion of a child from a school or
+child care facility is at the discretion of the Medical Health Officer. Child
+may be excluded until 2 stool samples show no evidence of shigella
+bacteria.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+42
+Shingles
+What is it? Shingles, also called herpes zoster, or zoster, is a painful skin rash caused
+by the same virus that causes chickenpox.
+After a person recovers from chickenpox, the virus stays in the body and
+lies dormant along certain nerves. It can reappear years later as shingles.
+Shingles is more common in people with weakened immune systems and
+in those over 50 years of age.
+Signs and symptoms of shingles may include:
+¾ Pain, itching, or tingling along the affected nerve pathway
+¾ Blister-type rash that develops in the same area as pain and
+tingling
+¾ Blisters usually scab over in about 3 – 5 days and disappear after 2
+to 4 weeks
+Very rarely, shingles can lead to pneumonia, hearing problems, blindness,
+encephalitis (brain inflammation), or death. About 20% of people with
+shingles will continue to have severe pain even after the rash is gone.
+How is it spread? Shingles cannot be passed from one person to another. The virus that
+causes shingles can be transmitted to another person but that person
+would develop chickenpox, not shingles.
+The virus is spread through direct contact with the
+fluid from the blisters. It is not spread through the
+nose and throat secretions of an infected person.
+Incubation period It would take about 14 – 21 days for a person exposed to shingles to
+develop chickenpox.
+When is the person
+contagious?
+For about 7 days after the rash appears. Once the rash crusts over, the
+person is no longer contagious.
+How to prevent
+spread of the illness
+to other children.
+Child can return to school or the child care facility if the rash is covered
+and the child is feeling well enough to take part in activities.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+Chickenpox vaccine is free and is available for all people in B.C. who are
+over one year of age and are susceptible to chickenpox. Chickenpox
+vaccine given within 5 days of exposure to chickenpox disease (or shingles)
+is effective in preventing or reducing the severity of chickenpox. 
+43
+Streptococcal Infections: Scarlet Fever and
+Strep Throat
+What is it? Scarlet fever and strep throat are both caused by streptococcal bacteria.
+Rheumatic fever may occur as a result of untreated streptococcal infection.
+Signs and symptoms of scarlet fever may include:
+¾ Red rash that looks like sunburn and feels like rough sandpaper
+¾ Rash most often begins on chest and stomach and then spreads to
+rest of body
+¾ Rash usually lasts 2 – 7 days
+¾ When rash fades, skin on hands and feet may start to peel
+¾ Fever
+¾ Nausea and vomiting
+¾ Sore throat
+¾ Red, swollen lips, strawberry – like tongue
+¾ Flushed cheeks and pale area around mouth
+Signs and symptoms of strep throat may include:
+¾ Fever
+¾ Very sore throat
+¾ Swollen lymph glands
+¾ Swollen tonsils
+¾ Loss of appetite
+How is it spread? Through direct and indirect contact with the nose and throat secretions of
+an infected person:
+¾ Breathing in air contaminated with
+streptococcal bacteria when an infected
+person has coughed, sneezed, or talked
+¾ Touching the nose and throat secretions
+of an infected person
+¾ Touching articles recently contaminated with the nose
+and throat secretions of an infected person
+Contaminated food and milk products can be sources of streptococcal
+outbreaks.
+Incubation period Usually 1 – 3 days from contact with an infected person
+When is the person
+contagious?
+In untreated cases, 10 – 21 days. Untreated cases of strep throat may
+carry the organism for weeks or months.
+¾ Child is no longer infectious after 24 hours of antibiotic therapy.
+How to prevent
+spread of the illness
+to other children.
+Exclude child from school or child care until 24 hours after starting
+antibiotics or fever is gone.
+Carefully dispose of (or clean, if applicable) articles soiled by the nose and
+throat secretions of infected children.
+For more information, refer to Routine Practices.
+Handwashing is the best way to stop the spread of infections.
+44
+Swimmer’s Itch
+What is it? Swimmer’s itch is a skin rash caused by an allergic reaction to
+parasites that burrow into the skin when an individual swims in
+contaminated water. The larvae of the parasites are released from
+snails living in the water. When the parasites are released into the
+water, they swim around looking for a suitable host (e.g., ducks, geese,
+muskrats, beavers). If a person is swimming in the water, the parasite
+may burrow into the skin, and cause an allergic reaction and rash.
+Because the larvae cannot develop in humans, they soon die.
+Signs and symptoms of swimmer’s itch may include:
+¾ Tingling, burning, or itching of the skin (itching can be severe)
+¾ Small reddish pimples
+¾ Small blisters
+Itching may last up to week or more but will gradually go away.
+Scratching can lead to secondary infections.
+Children are most likely to be affected by swimmer’s itch because:
+¾ they swim in shallow water
+¾ they are not as likely to towel dry completely each time they come
+out of the water
+¾ their skin is more sensitive than adults.
+How is it spread? Swimmer’s itch is not spread from person to person.
+It is only spread by swimming, working, or wading in water
+contaminated with the larvae of certain parasites.
+The larvae tend to get pushed to the edges of lakes by wind and water
+current. They are more common in shallow water and water with visible
+weeds.
+Incubation period Itching usually begins almost immediately but it can take several days
+for signs of rash to appear.
+When is the person
+contagious?
+A person with swimmer’s itch is not contagious.
+How to prevent
+spread of the illness
+to other children.
+Child may attend school or child care.
+45
+References
+American Academy of Pediatrics. (2006). Red Book: Report of the Committee of Infectious
+Diseases (27th ed.) Elk Grove, IL: American Academy of Pediatrics.
+Do Bugs Need Drugs? Available at http://www.dobugsneeddrugs.org/
+BCCDC Laboratory Services (2003). A Guide to Selection and use of Disinfectants available at
+http://www.bccdc.org/downloads/pdf/epid/reports/CDManual_DisinfectntSelectnGuidelines_sep
+2003_nov05-03.pdf
+Canadian Paediatric Society. Caring for Kids, When Your Child is Sick available at
+http://www.caringforkids.cps.ca/index.htm
+Centers for Disease Control and Prevention. Epidemiology and Prevention of VaccinePreventable Diseases. Atkinson W, Hamborsky J, McIntyre L, Wolfe S, eds. 10th ed. Washington
+DC: Public Health Foundation, 2007.
+Children’s Hospital of Philadelphia. Health and Medical Information available at
+http://www.chop.edu/consumer/your_child/index.jsp
+Frankowski, B. et al (2002). American Academy of Pediatrics Clinical Report: Head Lice.
+Pediatrics. Vol 110:3. Available at
+http://aappolicy.aappublications.org/cgi/reprint/pediatrics;110/3/638.pdf
+Health Canada (1999) Infection Control Guidelines: Routine practices and additional
+precautions for preventing the transmission of infection in health care. Available at
+http://www.phac-aspc.gc.ca/publicat/ccdr-rmtc/99pdf/cdr25s4e.pdf
+Health and Welfare Canada. (2006). Canadian Immunization Guide. (7th ed.). Ottawa, On:
+Health and Welfare Canada. Available at: http://www.phac-aspc.gc.ca/naci-ccni/index-eng.php
+and http://www.phac-aspc.gc.ca/naci-ccni/index-eng.php
+Healthy Child Manitoba. Infection Control Guidelines for Early Learning and Child Care.
+available at http://www.gov.mb.ca/fs/childcare/pubs/healthypractices/infection-control.pdf
+Heymann, D. (2004). Control of Communicable Diseases Manual (18th ed.). Washington, DC:
+American Public Health Association.
+Infectious Diseases and Immunization Committee, Canadian Paediatric Society (2008).
+Infection Control in Pediatric Office Settings available at
+http://www.cps.ca/English/statements/ID/ID08-03.pdf
+Infectious Diseases and Immunization Committeee, Canadian Paediatric Society (2008). Head
+Lice Infestations: A Clinical Update available at http://www.cps.ca/english/statements/ID/id08-
+06.htm
+Vancouver Coastal Health (2008, Spring). Sneezes and Diseases, A Resource Book for
+Caregivers and Parents available at
+http://www.vch.ca/sneezesdiseases/docs/SneezesDiseases.pdf
